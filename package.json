@@ -1,0 +1,30 @@
+{
+  "name": "giveaways-example",
+  "version": "1.0.0",
+  "description": "Giveaway example repository for @Nuggies-bot NPM",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "discord-buttons": "^3.2.1",
+    "discord-giveaway": "^1.1.4",
+    "dotenv": "^8.2.0",
+    "fs": "^0.0.1-security",
+    "mongoose": "^5.11.15",
+    "ms": "^2.1.3",
+    "num-parse": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nuggies-bot/giveaways-example.git"
+  },
+  "author": "Assassin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nuggies-bot/giveaways-example/issues"
+  },
+  "homepage": "https://github.com/Nuggies-bot/giveaways-example"
+}
